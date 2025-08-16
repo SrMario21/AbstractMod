@@ -1,2 +1,2 @@
 # AbstractMod
-A mod for balatro that adds 10 new jokers and 2 new legendary jokers (Sorry for my bad english)
+This is a vanilla mod that expands some game mechanics, such as jokers, enchantments, and consumables (Sorry for my bad english)
